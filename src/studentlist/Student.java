@@ -56,6 +56,8 @@ public class Student {
             System.out.println(list[i].getName() + " " + list[i].getAge());
         }
             System.out.println("Learn Github Operation");
+        // Pull Operation
+        // Fetch nad Merge Operation
         // Pull Operation Learning
             System.out.println("Learn Github");
             //[Commit and Save]
