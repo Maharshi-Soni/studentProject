@@ -14,6 +14,7 @@ import java.util.*;
 public class Student {
     private String name;
     private int age;
+    private boolean parttime;
     
     public void setName(String name) {
         this.name = name;
@@ -60,5 +61,19 @@ public class Student {
         // Fetch nad Merge Operation
         // This is a PartTime branch
     }       
+
+    /**
+     * @return the parttime
+     */
+    public boolean isParttime() {
+        return parttime;
+    }
+
+    /**
+     * @param parttime the parttime to set
+     */
+    public void setParttime(boolean parttime) {
+        this.parttime = parttime;
+    }
 }
     
