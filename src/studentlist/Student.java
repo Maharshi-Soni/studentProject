@@ -57,7 +57,7 @@ public class Student {
         }
             System.out.println("Learn Github Operation");
         // Pull Operation
-        // Featvh nad Merge Operation
+        // Fetch nad Merge Operation
     }       
 }
     
