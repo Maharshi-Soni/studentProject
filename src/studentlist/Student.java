@@ -8,7 +8,7 @@ package studentlist;
  * model class = Student rare data
  * @author : Maharshi Soni
  * Project = Student + Age
- * Date : 20th May
+ * Date : May 20, 2022
  */
 import java.util.*;
 public class Student {
@@ -58,6 +58,7 @@ public class Student {
             System.out.println("Learn Github Operation");
         // Pull Operation
         // Fetch nad Merge Operation
+        // This is a PartTime branch
     }       
 }
     
