@@ -6,7 +6,9 @@ package studentlist;
 
 /**
  * model class = Student rare data
- * @author 19057
+ * @author : Maharshi Soni
+ * Project = Student + Age
+ * Date : 20th May
  */
 import java.util.*;
 public class Student {
@@ -53,6 +55,7 @@ public class Student {
         {
             System.out.println(list[i].getName() + " " + list[i].getAge());
         }
-    }
+            System.out.println("Learn Github");
+    }       
 }
     
